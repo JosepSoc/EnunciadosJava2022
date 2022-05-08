@@ -41,3 +41,14 @@ Sugerencias:
 -Hacer un menu simple que itere y pregunte por las opciones requeridas (agregar una opción para salir)
 
 -Primero cree la clase lógica, luego el menú sin realizar acciones y finalmente desarrollar las acciones una a una por el orden indicado, ya que se han listado en orden de dificultad.
+
+
+Ejercicio 6b
+
+-Al ejercicio 6a en la clase Product agregar el atributo disabledOn:Date.
+
+-Realizar las modificaciones al ejercicio 6a para utilizar el nuevo atributo.
+
+-Crear dos métodos que se encarguen de abrir y cerrar las conexiones a la base de datos y utilizarlos desde los otros métodos.
+
+-Asegurarse de que todos los métodos liberen correctamente los recursos utilizados (cerrar resultsets, statements, conecciones). Esto incluye el manejo de errores con try catch finally.
